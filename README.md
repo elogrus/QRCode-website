@@ -1,5 +1,5 @@
 # QRCode-website-FrontEnd</h1>
-## Project for `DevHack Hackaton`
+## Project for `DevHack Hackaton`, use React
 
 ### [Repository with BackEnd](https://github.com/coder-medved/QRCode-website)
 # 
